@@ -167,8 +167,9 @@ footer a {
 }    
 
 .back-btn {
+    width: min-content;
     display: inline-block;
-    margin-top: 30px;
+    margin: 30px;
     padding: 12px 20px;
     background-color: #333;
     color: #fff;
